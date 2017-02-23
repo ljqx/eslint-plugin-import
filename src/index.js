@@ -36,6 +36,8 @@ export const rules = {
 
   // deprecated aliases to rules
   'imports-first': require('./rules/imports-first'),
+
+  'match-name': require('./rules/match-name'),
 }
 
 export const configs = {
